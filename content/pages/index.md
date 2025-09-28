@@ -7,7 +7,7 @@ sections:
       text: Hi I'm Gavesh Shashiranda
       color: text-dark
       type: TitleBlock
-    subtitle: 3d animator
+    subtitle: 3d animator & video editor
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
