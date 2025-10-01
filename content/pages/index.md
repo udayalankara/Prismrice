@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hi I'm Gavesh Shashiranda
+      text: Hello I'm Gavesh Shashiranda
       color: text-dark
       type: TitleBlock
     subtitle: 3d animator & video editor
