@@ -82,7 +82,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: 'https://youtu.be/b62WvMw8AGw'
+      url: 'https://youtu.be/aRdngLVR4jU'
       controls: false
       aspectRatio: '16:9'
       styles:
