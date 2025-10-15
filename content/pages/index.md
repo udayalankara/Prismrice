@@ -42,7 +42,7 @@ sections:
     subtitle: Skills
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/figma.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
