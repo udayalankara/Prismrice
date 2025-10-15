@@ -7,7 +7,7 @@ sections:
       text: Hello I'm Gavesh Shashiranda
       color: text-dark
       type: TitleBlock
-    subtitle: 3d animator & video editor
+    subtitle: 3d Animator and motion designer
     text: >+
       I create high-quality 3D product animations and cinematic edits for brands
       and creators
