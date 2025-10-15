@@ -39,7 +39,7 @@ sections:
           - pb-16
           - pr-16
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Skills
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
