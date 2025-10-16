@@ -170,7 +170,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Logo Animation
       color: text-dark
       styles:
         self:
