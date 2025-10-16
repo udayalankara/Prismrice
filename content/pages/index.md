@@ -176,7 +176,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: 'Some of my recent logo Animations '
     text: >+
 
       I turn static logos into dynamic brand reveals — from sleek metallic
