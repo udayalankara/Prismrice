@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/WhatsApp Image 2025-05-06 at 09.35.11_597dbf24.jpg
+      url: /images/replace.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
