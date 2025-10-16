@@ -177,11 +177,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      I turn static logos into dynamic brand reveals — from sleek metallic
+      shines to energetic particle bursts and smooth 3D motion. Each animation
+      is tailored to match your brand’s style and leave a lasting first
+      impression.
+
     actions: []
     media:
       title: Title of the video
